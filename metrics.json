@@ -1,0 +1,28 @@
+{
+  "test_accuracy": 0.8663,
+  "best_val_accuracy": 0.8396,
+  "per_class": {
+    "bad": {
+      "precision": 0.743,
+      "recall": 0.902
+    },
+    "good": {
+      "precision": 0.947,
+      "recall": 0.849
+    }
+  },
+  "confusion_matrix": [
+    [
+      55,
+      6
+    ],
+    [
+      19,
+      107
+    ]
+  ],
+  "classes": [
+    "bad",
+    "good"
+  ]
+}

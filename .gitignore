@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Datasets (regenerable via fetch.py / make_synthetic.py)
+data/
+
+# Environment / local config (may contain secrets)
+.env
+.env.*
+!.env.example
+
+# OS
+.DS_Store
+Thumbs.db
