@@ -1,0 +1,9 @@
+--extra-index-url https://download.pytorch.org/whl/cu126
+# Pinned from the project's .venv. torch/torchvision are CUDA 12.6 builds;
+# the index-url above resolves them. For CPU-only, drop the +cu126 local tags.
+matplotlib==3.11.0
+numpy==2.5.0
+pillow==12.2.0
+requests==2.34.2
+torch==2.12.1+cu126
+torchvision==0.27.1+cu126
