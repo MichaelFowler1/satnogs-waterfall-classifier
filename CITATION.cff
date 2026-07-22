@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "satnogs-waterfall-classifier"
+abstract: "CNN that classifies SatNOGS observation waterfalls as good (signal) or bad (noise) - RF signal triage with ResNet18 transfer learning."
+authors:
+  - family-names: "Fowler"
+    given-names: "Michael"
+    alias: "MichaelFowler1"
+repository-code: "https://github.com/MichaelFowler1/satnogs-waterfall-classifier"
+url: "https://github.com/MichaelFowler1/satnogs-waterfall-classifier"
+license: "Apache-2.0"
+date-released: "2026-06-30"
