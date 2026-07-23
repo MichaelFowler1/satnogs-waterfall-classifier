@@ -1,5 +1,7 @@
 # SatNOGS Waterfall Classifier
 
+[![tests](https://github.com/MichaelFowler1/satnogs-waterfall-classifier/actions/workflows/tests.yml/badge.svg)](https://github.com/MichaelFowler1/satnogs-waterfall-classifier/actions/workflows/tests.yml)
+
 Automatically tell whether a satellite ground station actually caught a signal —
 a CNN that classifies SatNOGS observation waterfalls as **good** (signal present)
 or **bad** (noise only).
