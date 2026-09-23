@@ -1,3 +1,6 @@
+# Copyright 2026 Michael Fowler
+# SPDX-License-Identifier: PolyForm-Noncommercial-1.0.0
+
 """make_loaders is where the two documented data-handling guarantees live:
 the split is deterministic per seed with no train/val/test leakage, and class
 weights are computed from the train split only (real SatNOGS data is

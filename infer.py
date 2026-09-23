@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+# Copyright 2026 Michael Fowler
+# SPDX-License-Identifier: PolyForm-Noncommercial-1.0.0
+
 """
 Run a trained model on new SatNOGS waterfalls and predict good vs bad.
 

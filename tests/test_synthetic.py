@@ -1,3 +1,6 @@
+# Copyright 2026 Michael Fowler
+# SPDX-License-Identifier: PolyForm-Noncommercial-1.0.0
+
 """The synthetic waterfall generator is the offline stand-in for real SatNOGS
 data, so the pipeline's correctness rests on its two invariants: a carrier
 visibly brightens the image, and generation is deterministic per seed."""

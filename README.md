@@ -83,3 +83,16 @@ End-to-end applied ML on real sensor data: pulling and labeling a dataset from a
 live API, transfer learning on a GPU, honest evaluation (confusion matrix,
 per-class precision/recall), and clear-eyed treatment of label noise and
 distribution shift — the parts that separate a real model from a leaderboard score.
+
+## License
+
+Everything in this repository from this change on is under the
+[PolyForm Noncommercial License 1.0.0](LICENSE), apart from the third-party
+material listed in [NOTICE](NOTICE), which keeps its own terms. Earlier commits were released
+under the Apache License 2.0 and stay under it. In plain terms: it is free for
+any noncommercial purpose, and for schools and universities, public research
+organizations, government institutions and charities, whatever their funding.
+Commercial use needs a license from the author: ask through
+[the issue tracker](https://github.com/MichaelFowler1/satnogs-waterfall-classifier/issues). Anyone who
+passes on a copy has to pass on the license and the `Required Notice:` line in
+[NOTICE](NOTICE). This is a plain summary; the LICENSE file is what governs.

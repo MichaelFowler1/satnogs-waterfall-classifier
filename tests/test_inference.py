@@ -1,3 +1,6 @@
+# Copyright 2026 Michael Fowler
+# SPDX-License-Identifier: PolyForm-Noncommercial-1.0.0
+
 """The shipped model.pt is part of the repo's contract: it must load on CPU
 and produce a calibrated two-class prediction for an arbitrary waterfall
 image. metrics.json must stay consistent with the checkpoint's classes."""

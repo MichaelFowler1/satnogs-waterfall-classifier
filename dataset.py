@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+# Copyright 2026 Michael Fowler
+# SPDX-License-Identifier: PolyForm-Noncommercial-1.0.0
+
 """
 Build train/val/test DataLoaders from an ImageFolder directory:
     data/good/*.png

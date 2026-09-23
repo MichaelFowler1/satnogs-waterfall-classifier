@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+# Copyright 2026 Michael Fowler
+# SPDX-License-Identifier: PolyForm-Noncommercial-1.0.0
+
 """
 Download real labeled waterfalls from the SatNOGS Network open API.
 
